@@ -1,0 +1,17 @@
+Public class print
+{
+Public Static void main(String args[])
+{
+abc ob=new abc();
+ob.fun();
+}
+}
+class abc
+{
+void fun()
+{
+int i;
+for(i=1;i<=51;i++)
+System.out.println(i);
+}
+}
